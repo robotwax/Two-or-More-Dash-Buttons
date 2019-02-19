@@ -41,7 +41,7 @@ styles = {
 app.layout = html.Div(children=
       html.Div([
             html.Div([
-                  html.H1('Rainbow Calendar C-14',
+                  html.H1('Multiple Buttons',
                   className = "six columns"),
                   html.H4(gc,
                   className = "six columns", style={'float': 'left', 'margin-left': 0},
